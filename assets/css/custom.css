@@ -1159,7 +1159,7 @@ input:-moz-placeholder:focus {
   border-radius: 0;
 }
 
-@media all amd (max-width: 768px) {
+@media all and (max-width: 768px) {
   .testimonial-carousel .carousel-cell {
     width: 100%;
     padding-right: 15%;
