@@ -834,19 +834,19 @@ input:-moz-placeholder:focus {
 #section-14 .card:nth-child(8) .btn-link:before {
   content: "8.";
 }
-section-14 .card:nth-child(9) .btn-link:before {
+#section-14 .card:nth-child(9) .btn-link:before {
   content: "9.";
 }
-section-14 .card:nth-child(10) .btn-link:before {
+#section-14 .card:nth-child(10) .btn-link:before {
   content: "10.";
 }
-section-14 .card:nth-child(11) .btn-link:before {
+#section-14 .card:nth-child(11) .btn-link:before {
   content: "11.";
 }
-section-14 .card:nth-child(12) .btn-link:before {
+#section-14 .card:nth-child(12) .btn-link:before {
   content: "12.";
 }
-section-14 .card:nth-child(13) .btn-link:before {
+#section-14 .card:nth-child(13) .btn-link:before {
   content: "13.";
 }
 
