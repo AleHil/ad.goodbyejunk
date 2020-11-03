@@ -1084,7 +1084,7 @@ input:-moz-placeholder:focus {
 @media all and (max-width: 450px) {
   #section-7 .carousel-cell {
     width: 50%;
-    height: 150px;
+    height: 200px;
     margin-right: 8px;
     border-radius: 5px;
   }
@@ -1098,8 +1098,8 @@ input:-moz-placeholder:focus {
 }
 @media all and (max-width: 320px) {
   #section-7 .carousel-cell {
-    width: 75%;
-    height: 150px;
+    width: 50%;
+    height: 200px;
     margin-right: 8px;
     border-radius: 5px;
   }
