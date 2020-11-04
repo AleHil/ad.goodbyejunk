@@ -594,6 +594,9 @@ input:-moz-placeholder:focus {
   padding-top: 5%;
   padding-bottom: 5%;
 }
+#section-7 > .container {
+  max-width: 1000px !important;
+}
 @media all and (min-width: 992px) {
   #section-7 h2 {
     font-size: 46px;
