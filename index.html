@@ -155,6 +155,9 @@
                   type="text"
                   class="form-control phone"
                   id="inputPhone"
+                  pattern="[0-9]{8,10}"
+                  oninvalid="this.setCustomValidity('Enter phone number as 10 or 8 digits (no spaces)')"
+                  oninput="this.setCustomValidity('')"
                   name="phone"
                   placeholder="Phone Number*"
                   required
